@@ -1,6 +1,6 @@
 # Frontend Mentor - Chat app CSS illustration
 
-## Url: [https://pezemiwe.github.io/chat-app-css-illustration-master/]cls(https://pezemiwe.github.io/chat-app-css-illustration-master/)
+## Url: [https://pezemiwe.github.io/chat-app-css-illustration-master/](https://pezemiwe.github.io/chat-app-css-illustration-master/)
 
 ![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)
 
